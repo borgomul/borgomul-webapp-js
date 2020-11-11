@@ -1,0 +1,12 @@
+.content-wrapper{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    width: 70%;
+    font-size: 2rem;
+    text-align: center
+}
