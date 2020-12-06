@@ -8,7 +8,7 @@ const SearchBar = (props) => {
       "url(https://www.pngfind.com/pngs/b/54-545056_search-icon-png.png)",
     "background-size": "20px 20px",
     "background-repeat": "no-repeat",
-    "background-position-x": "97%",
+    "background-position-x": "98%",
     "background-position-y": "11px",
   };
   return (
